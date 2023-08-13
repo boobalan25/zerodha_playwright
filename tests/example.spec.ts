@@ -1,5 +1,5 @@
 import { test, expect } from '@playwright/test';
-import * as data from '../data/zerodha_tinput.json';
+import * as data from '../data/zerodha_input.json';
 import Xpaths from '../xpaths/xpaths';
 import CommonService from '../service/common-service';
 
