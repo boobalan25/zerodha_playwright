@@ -1,0 +1,8 @@
+{
+    "openLink": "https://console.zerodha.com/dashboard",
+    "userId": "USERID",
+    "password": "PASSWORD",
+    "mobileAppCode": "APPCODE",
+    "dateFrom": "YYYY-MM-DD",
+    "dateTo": "YYYY-MM-DD"
+}
